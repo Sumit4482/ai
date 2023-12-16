@@ -1,0 +1,1 @@
+{"name":"Local: a_star","url":"/run/media/frostknight/HD/AI_practical/AI practical/a_star.py","tests":[{"id":1695633599459,"input":"4\n0 10 15 20\n10 0 35 25\n15 35 0 30\n20 25 30 0\n0\n2\n0 6 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/run/media/frostknight/HD/AI_practical/AI practical/a_star.py","group":"local","local":true}
